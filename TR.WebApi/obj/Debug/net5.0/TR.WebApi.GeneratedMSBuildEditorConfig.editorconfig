@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = TR.WebApi
+build_property.ProjectDir = /Users/kumasi/OneDrive - Reykjavik University/2021/útskriftarönn/Vefþjónustur/large_assignments/large_assignemt1Test/TR/TR.WebApi/
